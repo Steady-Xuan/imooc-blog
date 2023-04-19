@@ -46,7 +46,7 @@
         "selectedIconPath": "static/tab-icons/hot-video-active.png"
       },
       {
-        "pagePath": "pages/hot/hot",
+        "pagePath": "pages/my/my",
         "text": "我的",
         "iconPath": "static/tab-icons/my.png",
         "selectedIconPath": "static/tab-icons/my-active.png"

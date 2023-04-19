@@ -1,0 +1,28 @@
+.text-ellipes {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 2;
+}
+.mt {
+  margin-top: 25rpx;
+}
+.pr {
+  padding-right: 20rpx;
+}
+.f14 {
+  font-size: 14px;
+}
+.f12 {
+  font-size: 12px;
+}
+.f10 {
+  font-size: 10px;
+}
+.cprimary {
+  color: #f01414;
+}
+.c99 {
+  color: #999;
+}
